@@ -30,6 +30,11 @@
 }
 
 .header_logo {
+  width: 148px;
+  justify-self: center;
+}
+
+.header_logo {
   display: block;
   width: 148px;
   height: 114px;
