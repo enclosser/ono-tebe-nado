@@ -1,6 +1,6 @@
 .header {
   display: grid;
-  grid-template-columns:  1fr min-content 1fr;
+  grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 92px 50px;
 }
@@ -64,7 +64,7 @@
 }
 
 .overlay {
-  position: absolute;;
+  position: absolute;
   inset: 0;
   z-index: 0;
   background: rgb(0%, 0%, 0%, 0.6);
@@ -169,7 +169,6 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-
 }
 
 .card_type_film {
@@ -216,7 +215,6 @@
   grid-template-columns: 1fr 2fr;
   column-gap: 10px;
   margin: 146px 24px;
-
 }
 
 .about__logo {
@@ -290,7 +288,7 @@
 .footer_social_link {
   display: block;
   width: 48px;
-  height:  48px;
+  height: 48px;
 }
 
 .footer_social_icon {
