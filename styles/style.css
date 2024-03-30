@@ -155,7 +155,6 @@
 }
 
 .lots_card_list_item {
-  flex-wrap: wrap;
   flex-grow: 1;
   width: 334px;
   min-height: 563px;
@@ -163,7 +162,7 @@
 
 .card_link {
   display: block;
-  height: 563px;
+  height: 100%;
 }
 
 .card {
@@ -282,7 +281,7 @@
   list-style: none;
 }
 
-.footer_menu-link {
+.footer_menu_link {
   border-bottom: 1px solid;
   text-decoration: none;
 }
